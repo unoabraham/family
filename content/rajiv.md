@@ -10,6 +10,8 @@ He is a Christian, loves all things tech, is an audiophile, a foodie, a smartpho
 
 He values his faith and his personal relationship with God the Father, the Lord Jesus Christ, and the Holy Spirit above all else.
 
+![Rajiv Abraham Nela](/images/IMG_0583.JPG "Rajiv Abraham Nela")
+
 He likes to discover new things and is always tinkering with the latest in technology.
 
 He is an avid music listener, and spends at least a couple of hours each day listening to music, and most days those couple of hours end up becoming 10 hours.
