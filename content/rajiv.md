@@ -22,4 +22,4 @@ He is also into TV and movies, the same as everybody else.
 
 He likes to play with the latest in automation and runs several projects on the Raspberry Pi and a Linux server and has a bevy of pretty ladies around the house who go by the name of Alexa and Ok Google.
 
-You can find out more about him at <a href="https://abraham.red/" target="_blank" rel="noopener">RAJIV ABRAHAM NELA</a>.
+You can find out more about him and contact him at <a href="https://abraham.red/" target="_blank" rel="noopener">RAJIV ABRAHAM NELA</a>.
