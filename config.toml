@@ -47,7 +47,3 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/gallery"
     text = "gallery"
-
-[[params.mainMenu]]
-    link = "https://nela.blog/"
-    text = "blog"  
