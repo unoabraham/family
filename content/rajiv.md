@@ -16,6 +16,8 @@ He is an avid music listener, and spends at least a couple of hours each day lis
 
 He is a foodie, loves meat, especially chicken. He’s one for adventure in food and always open to trying out different delicacies like squid and raw sushi. Most days though KFC will keep him perfectly happy.
 
-He likes to play with the latest in artificial intelligence and home automation and runs several projects on the Raspberry Pi and a Linux server and has a bevy of pretty ladies around the house who go by the name of Alexa and Ok Google.
+He is also into TV and movies, the same as everybody else.
+
+He likes to play with the latest in automation and runs several projects on the Raspberry Pi and a Linux server and has a bevy of pretty ladies around the house who go by the name of Alexa and Ok Google.
 
 You can find out more about him at <a href="https://abraham.red/" target="_blank" rel="noopener">RAJIV ABRAHAM NELA</a>.
