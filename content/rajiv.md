@@ -4,7 +4,9 @@ date: 2018-05-26T18:58:35+05:30
 showDate: false
 ---
 
-Rajiv Abraham Nela is the first born child of Simon and Lily. He is a Christian, loves all things tech, is an audiophile, a foodie, a smartphone shutterbug, a geek, and an occasional blogger - though he’s trying to change that last bit with microblogging and photoblogging.
+Rajiv Abraham Nela is the first born child of Simon and Lily. 
+
+He is a Christian, loves all things tech, is an audiophile, a foodie, a smartphone shutterbug, a geek, and an occasional blogger - though he’s trying to change that last bit with microblogging and photoblogging.
 
 He values his faith and his personal relationship with God the Father, the Lord Jesus Christ, and the Holy Spirit above all else.
 
