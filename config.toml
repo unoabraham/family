@@ -1,4 +1,4 @@
-baseurl                 = "https://flamboyant-engelbart-aa9967.netlify.com/"               # Your domain name. Must end with "/"
+baseurl                 = "https://nela.in/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Nela Family Website"
 theme                   = "hugo-theme-sam"
