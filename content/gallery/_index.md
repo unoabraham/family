@@ -2,7 +2,7 @@
 title: "Nela's Gallery"
 ---
 
-Welcome to the Nela Fmily Gallery.
+Welcome to the Nela Family Gallery.
 
 A random selection of photographs will be generated and displayed on each visit. You can click on the individual images for the full resolution.
 

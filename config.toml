@@ -24,21 +24,21 @@ pygmentsCodefences      = true
     link = "/about"
     text = "about"
 
-[[params.mainMenu]]
-    link = "/simon"
-    text = "simon"
+#[[params.mainMenu]]
+    #link = "/simon"
+    #text = "simon"
 
-[[params.mainMenu]]
-    link = "/lily"
-    text = "lily"
+#[[params.mainMenu]]
+    #link = "/lily"
+    #text = "lily"
 
 [[params.mainMenu]]
     link = "/rajiv"
     text = "rajiv"
 
-[[params.mainMenu]]
-    link = "/padma"
-    text = "padma"
+#[[params.mainMenu]]
+    #link = "/padma"
+    #text = "padma"
 
 [[params.mainMenu]]
     link = "/grace"

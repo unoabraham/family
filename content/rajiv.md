@@ -6,7 +6,7 @@ showDate: false
 
 Rajiv Abraham Nela is the first born child of Simon and Lily. 
 
-He is a Christian, loves all things tech, is an audiophile, a foodie, a smartphone shutterbug, a geek, and an occasional blogger - though he’s trying to change that last bit with microblogging and photoblogging.
+He is a Christian, loves all things tech, is an audiophile, foodie, shutterbug, geek, and occasional blogger - though he’s trying to change that last bit with <a href="https://abraham.one/" target="_blank" rel="noopener">Abraham Abridged</a> and <a href="https://abraham.red/" target="_blank" rel="noopener">Abraham&apos;s Photoblog</a>.
 
 He values his faith and his personal relationship with God the Father, the Lord Jesus Christ, and the Holy Spirit above all else.
 
@@ -18,8 +18,10 @@ He is an avid music listener, and spends at least a couple of hours each day lis
 
 He is a foodie, loves meat, especially chicken. He’s one for adventure in food and always open to trying out different delicacies like squid and raw sushi. Most days though KFC will keep him perfectly happy.
 
-He is also into TV and movies, the same as everybody else.
+He is also into TV and movies, the same as everybody else, but with the latest in tech like OLED displays and Dolby Atmos.
 
-He likes to play with the latest in automation and runs several projects on the Raspberry Pi and a Linux server and has a bevy of pretty ladies around the house who go by the name of Alexa and Ok Google.
+He is an avid gamer, but mostly sticks to FPS and TPS, and prefers the PC and mouse for regular gaming.
 
-You can find out more about him and contact him at <a href="https://abraham.red/" target="_blank" rel="noopener">RAJIV ABRAHAM NELA</a>.
+He likes to play with the latest in automation and runs several projects on the Raspberry Pi and multiple Linux servers and has a bevy of pretty ladies around the house who go by the name of Alexa and Ok Google.
+
+You can find out more about him and contact him at <a href="https://a.brah.am/" target="_blank" rel="noopener">RAJIV ABRAHAM NELA</a>.
