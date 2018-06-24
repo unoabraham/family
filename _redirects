@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://nela.netlify.com/* http://nela.in/:splat 301!
