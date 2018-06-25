@@ -4,7 +4,7 @@ date: 2018-05-26T18:58:53+05:30
 showDate: false
 ---
 
-Grace is a wife, daughter, sister, and above all else joint heir with Jesus Christ learning to live each day by faith in the Word of God.
+Grace is a wife, daughter, sister, wife to <a href="https://nela.in/rajiv/" target="_blank" rel="noopener">Rajiv Abraham</a>, and above all else joint heir with Jesus Christ learning to live each day by faith in the Word of God.
 
 She has a Bachelor's in Electronics and Telecommunication Engineering, but is right now essaying the role of a fulltime domestic engineer.
 

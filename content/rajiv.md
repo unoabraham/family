@@ -4,7 +4,7 @@ date: 2018-05-26T18:58:35+05:30
 showDate: false
 ---
 
-Rajiv Abraham Nela is the first born child of Simon and Lily. 
+Rajiv Abraham Nela is the first born child of Simon and Lily, and husband to <a href="https://nela.in/grace/" target="_blank" rel="noopener">Grace Abraham</a>. 
 
 He is a Christian, loves all things tech, is an audiophile, foodie, shutterbug, geek, and occasional blogger - though he’s trying to change that last bit with <a href="https://abraham.one/" target="_blank" rel="noopener">Abraham Abridged</a> and <a href="https://abraham.red/" target="_blank" rel="noopener">Abraham&apos;s Photoblog</a>.
 
