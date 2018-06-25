@@ -10,7 +10,7 @@ He is a Christian, loves all things tech, is an audiophile, foodie, shutterbug, 
 
 He values his faith and his personal relationship with God the Father, the Lord Jesus Christ, and the Holy Spirit above all else.
 
-![Rajiv Abraham Nela](/images/IMG_0583.JPG "Rajiv Abraham Nela")
+![Rajiv Abraham Nela](https://res.cloudinary.com/abraham/image/upload/v1528459912/IMG_0583.jpg "Rajiv Abraham Nela")
 
 He likes to discover new things and is always tinkering with the latest in technology.
 
