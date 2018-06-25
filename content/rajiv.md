@@ -6,7 +6,7 @@ showDate: false
 
 Rajiv Abraham Nela is the first born child of Simon and Lily, and husband to <a href="https://nela.in/grace/" target="_blank" rel="noopener">Grace Abraham</a>. 
 
-He is a Christian, audiophile, foodie, shutterbug, gamer, geek, and occasional blogger.
+He is a Christian, audiophile, foodie, gamer, shutterbug, geek, and occasional blogger.
 
 He values his faith and his personal relationship with God the Father, the Lord Jesus Christ, and the Holy Spirit above all else.
 
