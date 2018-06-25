@@ -20,10 +20,6 @@ pygmentsCodefences      = true
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     #primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
-[[params.mainMenu]]
-    link = "/about"
-    text = "about"
-
 #[[params.mainMenu]]
     #link = "/simon"
     #text = "simon"
@@ -47,3 +43,7 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/gallery"
     text = "gallery"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
